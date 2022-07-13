@@ -1,4 +1,4 @@
-[![Header](https://github.com/RasikaWarade/RasikaWarade/blob/main/header.png "Header")](https://rasikawarade.github.io)
+[![Header](https://github.com/RasikaWarade/RasikaWarade/blob/main/header-short.png "Header")](https://rasikawarade.github.io)
 
 <!--
 **RasikaWarade/RasikaWarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
